@@ -18,6 +18,9 @@
 }
 
 .header_name{
+    font-family: "pretendard", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:fixed;
     width: 100%;
     float: right;
