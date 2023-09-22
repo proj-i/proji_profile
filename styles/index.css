@@ -37,7 +37,7 @@
     width: 150px;
     height: 40px;
     margin: 110px 0px;
-    background-color: #004fff;
+    background-color: #001eff;
     border:none;
     color:white;
     box-shadow: 0 4px 16px rgba(0, 79, 255, 0.3);
@@ -56,7 +56,7 @@
     }
 
     .guide_button:hover{
-        background-color:rgba(0, 79, 255, 0.9) ;
+        background-color:rgb(25, 0, 255) ;
         cursor: pointer;
         box-shadow: 0 2px 4px rgba(0, 79, 255, 0.6);
     }
