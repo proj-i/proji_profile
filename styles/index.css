@@ -17,16 +17,6 @@
     content:''
 }
 
-.header_name{
-    font-family: "pretendard", sans-serif;
-    font-weight: 400;
-    font-style: normal;
-    position:fixed;
-    width: 100%;
-    float: left;
-}
-
-
 .title {
     margin: 60px 0px 0px;
     font-family: "pretendard", sans-serif;
