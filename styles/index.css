@@ -15,6 +15,12 @@
     content:''
 }
 
+.header_name{
+    position:fixed;
+    width: 100%;
+    float: right;
+}
+
 
 .title {
     margin: 60px 0px 0px;
