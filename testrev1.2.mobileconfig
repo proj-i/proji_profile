@@ -190,6 +190,8 @@ Profile을 설치하지 않은 미인가 iPad의 경우 학생부 징계 처분�
 			<string>com.apple.webcontent-filter</string>
 			<key>PayloadUUID</key>
 			<string>F567F1F2-45ED-412E-A78F-0B3384BA6927</string>
+            <key>ContentFilterUUID</key>
+            <string>FD133648-8A43-4780-B37D-1F13D57AF3BB</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>DenyListURLs</key>
