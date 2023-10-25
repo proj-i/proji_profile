@@ -196,6 +196,14 @@ Profile을 설치하지 않은 미인가 iPad의 경우 학생부 징계 처분�
 			<integer>1</integer>
 			<key>DenyListURLs</key>
 			<array>
+                <string>https://instagram.com</string>
+                <string>https://twiitter.com</string>
+                <string>https://x.com</string>
+                <string>https://pixiv.net</string>
+                <string>https://onion.tube</string>
+                <string>https://invidious.io</string>
+                <string>https://bsky.app</string>
+                <string>https://threads.net</string>
 				<string>https://youtube.com</string>
 				<string>https://ytmp3.cc/</string>
                 <string>https://netflix.com</string>
