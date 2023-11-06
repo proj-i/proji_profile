@@ -22,7 +22,7 @@ Project [i]; Bringing iPads to Hanil High School
 - ### iPad
 
   6th generation ~ 10th generation
-- ### iPad Air 3rd ~ 5th
+- ### iPad Air
 
   3rd generation ~ 5th generation
 - ### iPad Pro
