@@ -1,7 +1,7 @@
 <img src="src/proji_logo.png" width=100 height=100>
 
-# HANIL Project [i]
-Project [i]; Bringing iPads to Hanil High School
+# HANIL Project_i
+Project_i; Bringing iPads to Hanil High School
 
 ## 👥 Developed by 
 ### Hanil High School 36th Student Self Government 
